@@ -1,9 +1,9 @@
-final
+Bloons Tower Defense (And others)
 ====
 
 This project implements a player for multiple related games.
 
-Names: Jodi Yeh, Amrita Lakhanpal, Josh Boss, Arjun Rao
+Jodi Yeh, Amrita Lakhanpal, Josh Boss, Arjun Rao
 
 
 ### Timeline
