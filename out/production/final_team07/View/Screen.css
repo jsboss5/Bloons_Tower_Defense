@@ -1,0 +1,32 @@
+#enterGame{
+    -fx-background-color:
+            linear-gradient(#ffd35b, #e62400),
+            linear-gradient(#f5ef84, #f2b344),
+            linear-gradient(#e62400, #efaa22),
+            linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+            linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-padding: 10 20 10 20;
+    -fx-font-family: "Lucida Grande";
+}
+
+#Map1{
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 5;
+}
+
+#title{
+    -fx-font-size: 75;
+    -fx-font-weight: bold;
+    -fx-font-family: "Lucida Grande";
+}
+#click {
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-font-family: "Lucida Grande";
+}

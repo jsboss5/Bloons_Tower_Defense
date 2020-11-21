@@ -1,0 +1,35 @@
+#RegularAttackerPrice{
+    -fx-font-size: 25;
+    -fx-font-family: Courier;
+    -fx-fill: white;
+}
+
+#TackAttackerPrice{
+    -fx-font-size: 25;
+    -fx-font-family: Courier;
+    -fx-fill: white;
+}
+
+#GlueAttackerPrice{
+    -fx-font-size: 25;
+    -fx-font-family: Courier;
+    -fx-fill: white;
+}
+
+#SniperAttackerPrice{
+    -fx-font-size: 25;
+    -fx-font-family: Courier;
+    -fx-fill: white;
+}
+
+#BackgroundBox {
+    -fx-fill: white;
+}
+
+#HealthDisplay{
+    -fx-fill:  linear-gradient(#ffd65b, #e68400),
+    linear-gradient(#ffef84, #f2ba44),
+    linear-gradient(#ffea6a, #efaa22),
+    linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+    linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+}

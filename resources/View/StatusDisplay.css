@@ -1,0 +1,7 @@
+#CoinDisplay{
+    -fx-font-size: 45;
+    -fx-text-fill: white
+}
+#healthBar{
+    -fx-background-color: pink;
+}
